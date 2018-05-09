@@ -16,7 +16,7 @@
 
 <body>
   <div >
-  	<h2>note: Compiled jsx via servlet</h2>
+  	<h2>Tic Tac Toe example: Compiled jsx via servlet</h2>
   </div>
   <div id="root"></div>
 
