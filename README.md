@@ -1,2 +1,2 @@
-# myweb
-A starting point of jee web projects. I am trying to use branches to utilize various tech stack and keep them all under this umbrella
+# myweb-jsp-js
+This is a jee project mainly consists of jsp and javascript.
